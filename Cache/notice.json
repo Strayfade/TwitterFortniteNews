@@ -1,0 +1,25 @@
+{
+   "status": 200,
+   "message": "Everything should work fine",
+   "data": {
+      "messages": [
+         {
+            "title": "Disabled: Dr. Doom's Mystical Bomb (In: Competitive playlists)",
+            "body": "Due to an issue, we've temporarily disabled the following: Dr. Doom's Mystical Bomb"
+         },
+         {
+            "title": "Disabled: Dr. Doom's Mystical Bomb (In: Competitive playlists)",
+            "body": "Due to an issue, we've temporarily disabled the following: Dr. Doom's Mystical Bomb"
+         },
+         {
+            "title": "Disabled: Dr. Doom's Mystical Bomb (In: Competitive playlists)",
+            "body": "Due to an issue, we've temporarily disabled the following: Dr. Doom's Mystical Bomb"
+         }
+      ],
+      "platform_messages": {
+         "EU": [],
+         "NA": []
+      },
+      "region_messages": {}
+   }
+}

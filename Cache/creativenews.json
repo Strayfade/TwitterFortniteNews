@@ -1,0 +1,27 @@
+{
+   "status": 200,
+   "message": "Everything should work fine",
+   "data": {
+      "image": "https://api.peely.de/cdn/current/creativenews_en.gif",
+      "motds": [
+         {
+            "image": "https://cdn2.unrealengine.com/14-3-07-phoenixawakening-1920x1080-1920x1080-311975592.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/14-3-07-phoenixawakening-1024x512-1024x512-311975491.jpg",
+            "title": "Chronicles of \u017baneth - \"The Phoenix Awakening\"",
+            "body": "Open World, RPG, Fantasy, Adventure\nGo play the community made Featured Island by Spazy64",
+            "id": "Chronicles of \u017baneth - \"The Phoenix Awakening\" New Featured Island",
+            "spotlight": false
+         }
+      ],
+      "messages": [
+         {
+            "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/battleroyalenews/v42/BR04_MOTD_Shield-1024x512-75eacc957ecc88e76693143b6256ba06159efb76.jpg",
+            "messagetype": "normal",
+            "title": "Keep Your Account Secure",
+            "body": "Avoid scam sites offering free V-Bucks. Epic will never ask for your password. Enable Two-Factor Authentication to help stay secure!",
+            "spotlight": false
+         }
+      ],
+      "ads": []
+   }
+}

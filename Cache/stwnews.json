@@ -1,0 +1,30 @@
+{
+   "status": 200,
+   "message": "Everything should work fine",
+   "data": {
+      "image": "https://api.peely.de/cdn/unique/stwnews_en.gif",
+      "messages": [
+         {
+            "image": "https://cdn2.unrealengine.com/11stw-ghostpistol-motd-1024x512-890962719.jpg",
+            "adspace": "EVENT STORE",
+            "title": "Ghost Pistol",
+            "body": "Bring the Haunts to the Mist Monsters with Homebase's favorite Ghostly weapon... the Ghost Pistol! ",
+            "spotlight": false
+         },
+         {
+            "image": "https://cdn2.unrealengine.com/stw06-motd-dire-1024x512-890962764.jpg",
+            "adspace": "EVENT STORE",
+            "title": "Dire",
+            "body": "Howl at the moon... and the Husks with this returning Ninja!",
+            "spotlight": false
+         },
+         {
+            "image": "https://cdn2.unrealengine.com/14stw-cliphero-igor-motd-1024x512-1024x512-254008477.jpg",
+            "adspace": "NEW QUESTLINE",
+            "title": "Clip's Nightmare",
+            "body": "A nauseating spell in Hexsylvania. A gunsmith haunted by a figure from her past. Help Homebase dispel the curse before it's too late!",
+            "spotlight": false
+         }
+      ]
+   }
+}

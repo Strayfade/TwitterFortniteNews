@@ -1,0 +1,34 @@
+{
+   "status": 200,
+   "message": "Everything should work fine",
+   "data": {
+      "image": "https://api.peely.de/cdn/current/brnews_en.gif",
+      "motds": [
+         {
+            "image": "https://cdn2.unrealengine.com/14br-fortnitemares-forsaken-motd-1920x1080-1920x1080-271343990.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/14br-fortnitemares-forsaken-motd-1024x512-1024x512-271343979.jpg",
+            "title": "Grimoire",
+            "body": "Dressed for destruction with the near future of soul-reaper fashion.",
+            "id": "Grimoire links to Item Shop",
+            "spotlight": false
+         },
+         {
+            "image": "https://cdn2.unrealengine.com/14br-rallyroyaleltm-motd-1920x1080-1920x1080-253858335.jpg",
+            "tileImage": "https://cdn2.unrealengine.com/14br-rallyroyaleltm-motd-1024x512-1024x512-253858322.jpg",
+            "title": "Rally Royale ",
+            "body": "On your mark. Get set. Race. Collect tickets to unlock the finish line, get there quick or get left in the dust!",
+            "id": "Rally Royale links to Playlist_Argon_HighTower_Duos_16",
+            "spotlight": false
+         }
+      ],
+      "messages": [
+         {
+            "image": "https://cdn2.unrealengine.com/Fortnite/fortnite-game/battleroyalenews/v42/BR04_MOTD_Shield-1024x512-75eacc957ecc88e76693143b6256ba06159efb76.jpg",
+            "messagetype": "normal",
+            "title": "Keep Your Account Secure",
+            "body": "Avoid scam sites offering free V-Bucks. Epic will never ask for your password. Enable Two-Factor Authentication to help stay secure!",
+            "spotlight": false
+         }
+      ]
+   }
+}
