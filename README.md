@@ -4,7 +4,7 @@ Uses a Python script to grab NEWS data from EpicGames, then uses Javascript to p
 ### How To Use:
 1. Run install.bat to install necessary prerequisities.
 2. Open **config.js** and edit the keys using your personal Twitter API keys. These can be found here: https://developer.twitter.com/
-3. Run **RUN.bat** to run the application and post news!
+3. Run console command **node index.js** to run the application and post news! (make sure it is run in the index.js directory)
 
 
 ## Extra Information
