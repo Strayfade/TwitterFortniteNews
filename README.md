@@ -10,4 +10,5 @@ Uses a Python script to grab NEWS data from EpicGames, then uses Javascript to p
 ## Extra Information
  - All of the data from EpicGames servers is stored in the */Cache/* folder. This data is stored in **JSON** files and will automatically update every time the Python script is ran.
  - Most likely will require **NodeJS** to run. Download found here: https://nodejs.org/dist/v12.19.0/node-v12.19.0-x64.msi
+ - Also will probably require Python 3.0 or newer.
  - Built using Visual Studio Code
